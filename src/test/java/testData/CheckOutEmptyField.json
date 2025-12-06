@@ -1,0 +1,30 @@
+{
+  "CheckOutLogin": {
+    "username": "demo@demo.com",
+    "password": "demo"
+  },
+
+  "CheckOutCategory": "electronics",
+  "_comment": "Other available categories: 'womens-wear', 'kids-wear', 'electronics'",
+
+  "CheckOutForm": {
+  "FirstName": "Mahmoud",
+  "MiddleName": "Ibra",
+  "LastName": "Aba",
+  "Email": "Ma.doe@example.com",
+  "PhoneNumber": "1234567890",
+  "Address": "",
+  "State": "NY",
+  "City": "New   York",
+  "PinCode": "12345"
+  },
+
+  "CheckOutProduct": {
+    "Name":"Samsung Laptop",
+    "ExpectedName":"Samsung Laptop",
+    "ExpectedPrice":"$99",
+    "ExpectedQty":"1",
+    "ExpectedTotalPrice":"$99"
+  },
+  "CheckOutExpectedError": "Please enter your address."
+}

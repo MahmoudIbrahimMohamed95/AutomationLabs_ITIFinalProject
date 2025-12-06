@@ -1,0 +1,16 @@
+{
+  "ElectronicLogin": {
+    "username": "demo@demo.com",
+    "password": "demo"
+  },
+  "ElectronicCategory": "electronics",
+  "_comment": "Other available categories:'mens-wear', 'womens-wear', 'kids-wear'",
+  "ElectronicDetails": {
+    "Name": "LG Mobile",
+    "ExpectedName": "LG Mobile",
+    "ExpectedPrice": "$500",
+    "ExpectedType": "Mobile"
+  },
+  "BrandFilter": "Samsung",
+  "_comment5": "Other available categories: 'WHITE', 'RED' , 'BLUE', 'GREEN'"
+}

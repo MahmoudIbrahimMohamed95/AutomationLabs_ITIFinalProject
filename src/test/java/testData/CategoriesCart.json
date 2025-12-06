@@ -1,0 +1,39 @@
+{
+  "CartCategoriesLogin": {
+    "username": "demo@demo.com",
+    "password": "demo"
+  },
+
+  "CartCategoriesCategory": "mens-wear",
+  "_comment": "Other available categories: 'womens-wear', 'kids-wear', 'electronics'",
+
+  "CartProduct_Men": {
+    "Name":"Black Sport Shoes",
+    "ExpectedName":"Black Sport Shoes",
+    "ExpectedPrice":"$250",
+    "ExpectedQty":"1",
+    "ExpectedTotalPrice":"$250"
+  },
+  "CartProduct_Women": {
+    "Name":"Pant Top set",
+    "ExpectedName":"Pant Top set",
+    "ExpectedPrice":"$230",
+    "ExpectedQty":"1",
+    "ExpectedTotalPrice":"$230"
+  },
+  "CartProduct_Kids": {
+    "Name":"A Line Frock",
+    "ExpectedName":"A Line Frock",
+    "ExpectedPrice":"$140",
+    "ExpectedQty":"1",
+    "ExpectedTotalPrice":"$140"
+  },
+  "CartProduct_Electronics": {
+    "Name":"LG Mobile",
+    "ExpectedName":"LG Mobile",
+    "ExpectedPrice":"$500",
+    "ExpectedQty":"1",
+    "ExpectedTotalPrice":"$500"
+  },
+  "ExpectedCartCategoriesTotal": "$1120"
+}

@@ -1,0 +1,38 @@
+{
+  "ProductLogin": {
+    "username": "demo@demo.com",
+    "password": "demo"
+  },
+  "ProductCategory": "mens-wear",
+  "_comment": "Other available categories: 'womens-wear', 'kids-wear', 'electronics'",
+
+  "ProductDetails": {
+      "Name":"Black T-Shirt",
+      "ExpectedName":"Black T-Shirt",
+      "ExpectedPrice":"$150",
+      "ExpectedSize":"S",
+      "ExpectedColor":"Black",
+      "ExpectedType":"Men - Formal"
+    },
+
+  "ProductCategory_Type":"mens-wear",
+  "ProductCategory_Price":"womens-wear",
+  "ProductCategory_Size":"kids-wear",
+  "ProductCategory_Color":"mens-wear",
+
+  "ProductTypeFilter":"Formal",
+  "_comment1": "Other available categories: 'FORMAL', 'FOOTWEAR'",
+
+  "ProductPriceFilter":"$0 - $100",
+  "_comment2": "Other available categories: '$101-$200', '$201-$300' , '$301-$400', '$401-$500'",
+
+  "ProductSizeFilter":"Small",
+  "_comment3": "Other available categories: 'MEDIUM', 'LARGE' , 'EXTRA_LARGE', 'DOUBLE_EXTRA_LARGE'",
+  "ProductExpectedSize":"S",
+
+  "ProductColorFilter":"Black",
+  "_comment4": "Other available categories: 'WHITE', 'RED' , 'BLUE', 'GREEN'",
+
+  "ProductBrandFilter":"Samsung",
+  "_comment5": "Other available categories: 'WHITE', 'RED' , 'BLUE', 'GREEN'"
+}

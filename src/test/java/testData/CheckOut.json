@@ -1,0 +1,30 @@
+{
+  "CheckOutLogin": {
+    "username": "demo@demo.com",
+    "password": "demo"
+  },
+
+  "CheckOutCategory": "womens-wear",
+  "_comment": "Other available categories: 'womens-wear', 'kids-wear', 'electronics'",
+
+  "CheckOutForm": {
+  "FirstName": "Mahmoud",
+  "MiddleName": "Ibra",
+  "LastName": "Aba",
+  "Email": "Ma.doe@example.com",
+  "PhoneNumber": "1234567890",
+  "Address": "123 Main St",
+  "State": "NY",
+  "City": "New   York",
+  "PinCode": "12345"
+  },
+
+  "CheckOutProduct": {
+    "Name":"Huddy",
+    "ExpectedName":"Huddy",
+    "ExpectedPrice":"$400",
+    "ExpectedQty":"1",
+    "ExpectedTotalPrice":"$400"
+  },
+  "ConfirmationExpectedTitle": "Confirm Details"
+}

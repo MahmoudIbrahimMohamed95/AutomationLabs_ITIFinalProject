@@ -1,0 +1,18 @@
+{
+  "CertainProductLogin": {
+    "username": "demo@demo.com",
+    "password": "demo"
+  },
+
+  "CertainProductCategory": "womens-wear",
+  "_comment": "Other available categories: 'womens-wear', 'kids-wear', 'electronics'",
+
+  "CertainProductDetails": {
+    "Name": "Flotter",
+    "ExpectedName": "Flotter",
+    "ExpectedPrice": "$250",
+    "ExpectedQty":"1",
+    "ExpectedTotalPrice":"$250"
+  },
+  "CartExpectedMessage": "Cart"
+}

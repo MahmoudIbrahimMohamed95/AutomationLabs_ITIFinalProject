@@ -1,0 +1,32 @@
+{
+  "ConfirmationLogin": {
+    "username": "demo@demo.com",
+    "password": "demo"
+  },
+
+  "ConfirmationCategory": "kids-wear",
+  "_comment": "Other available categories: 'womens-wear', 'kids-wear', 'electronics'",
+
+  "ConfirmationForm": {
+    "FirstName": "Mahmoud",
+    "MiddleName": "Ibra",
+    "LastName": "Aba",
+    "Email": "Ma.doe@example.com",
+    "PhoneNumber": "1234567890",
+    "Address": "123 Main St",
+    "State": "NY",
+    "City": "New York",
+    "PinCode": "12345"
+  },
+
+  "ConfirmationProduct": {
+    "Name":"Long Frock",
+    "ExpectedName":"Long Frock",
+    "ExpectedPrice":"$100",
+    "ExpectedQty":"1",
+    "ExpectedTotalPrice":"$100"
+  },
+  "ConfirmationExpectedTittle": "Confirm Details",
+  "ThanksExpectedTittle": "Thanks"
+
+}

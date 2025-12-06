@@ -1,0 +1,30 @@
+{
+  "CheckOutLogin": {
+    "username": "demo@demo.com",
+    "password": "demo"
+  },
+
+  "CheckOutCategory": "mens-wear",
+  "_comment": "Other available categories: 'womens-wear', 'kids-wear', 'electronics'",
+
+  "CheckOutForm": {
+  "FirstName": "Mahmoud",
+  "MiddleName": "Ibra",
+  "LastName": "Aba",
+  "Email": "Ma.doe@example.com",
+  "PhoneNumber": "12345678",
+  "Address": "123 Main St",
+  "State": "NY",
+  "City": "New   York",
+  "PinCode": "12345"
+  },
+
+  "CheckOutProduct": {
+    "Name":"White Pant",
+    "ExpectedName":"White Pant",
+    "ExpectedPrice":"$180",
+    "ExpectedQty":"1",
+    "ExpectedTotalPrice":"$180"
+  },
+  "PhoneExpectedError": "Phone Number Should be 10 digit long."
+}

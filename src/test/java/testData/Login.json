@@ -1,0 +1,26 @@
+{
+  "valid": {
+    "username": "demo@demo.com",
+    "password": "demo"
+  },
+  "invaliduser": {
+    "username": "wrong",
+    "password": "demo",
+    "ExpectedError": "Please enter a valid email address."
+  },
+  "invalidpass": {
+    "username": "demo@demo.com",
+    "password": "wrong",
+    "ExpectedError":"Invalid email or password!"
+  },
+  "emptyPass": {
+    "username": "demo@demo.com",
+    "password": "",
+    "ExpectedError":"Please enter your password."
+  },
+  "emptyMail": {
+    "username": "",
+    "password": "demo",
+    "ExpectedError":"Please enter your email."
+  }
+}

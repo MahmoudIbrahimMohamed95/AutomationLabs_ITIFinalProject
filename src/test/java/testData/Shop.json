@@ -1,0 +1,8 @@
+{
+  "Shop_Username":"demo@demo.com",
+  "Shop_Password":"demo",
+  "Shop_CategoryBtn":"mens-wear",
+  "_comment": "Other available categories: 'womens-wear', 'kids-wear', 'electronics'",
+  "Shop_Category": "Men Fashion",
+  "Expected_Shop": "Men Fashion"
+}
