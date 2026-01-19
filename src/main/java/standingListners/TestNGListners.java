@@ -29,8 +29,8 @@ public class TestNGListners implements ISuiteListener, IExecutionListener, IInvo
 		Log.info("Test Execution started");
 		PropertyReader.loadProperties();
 
-		ListenersAssistant.cleanTestOutputDirectories()
-				.createTestOutputDirectories();
+		new ListenersAssistant.cleanTestOutputDirectories()
+				              .createTestOutputDirectories();
 
 		AllureSetupEnvironment.setAllureEnvironment()
 				.downloadAndExtract();
