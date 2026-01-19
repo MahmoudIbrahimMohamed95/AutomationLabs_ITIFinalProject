@@ -8,7 +8,7 @@ import java.io.File;
 
 public class ListenersAssistant {
 
-    public static ListenersAssistant cleanTestOutputDirectories() {
+    public  ListenersAssistant cleanTestOutputDirectories() {
 
         FileAndTerminalManager.cleanDirectory(new File(System.getProperty("user.dir")+
                 "/test-output/allure-results"+File.separator));
@@ -28,7 +28,7 @@ public class ListenersAssistant {
         return new ListenersAssistant();
     }
 
-    public static ListenersAssistant createTestOutputDirectories() {
+    public  ListenersAssistant createTestOutputDirectories() {
         FileAndTerminalManager.createDirectory(new File(System.getProperty("user.dir")+
                                                             File.separator+
                                                             PropertyReader.getProperty("ScreenShot_Path")));
